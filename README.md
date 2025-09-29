@@ -24,6 +24,4 @@ I enjoy working on **.NET Core APIs, React.js UIs, Azure Cloud Solutions, and AI
 ---
 
 ### 📫 Let’s Connect
-- 💼 [Upwork Profile](#)  
-- 🌐 [Portfolio Website](#)  
-- 📧 Email: youremail@example.com  
+- 📧 Email: **sajjadahmadbrw@gmail.com**  
